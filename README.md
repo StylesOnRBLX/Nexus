@@ -1,2 +1,5 @@
 # Nexus
-Nexus is a tool for several online-things. Hasn't been made for one specific reason however I hope that you'll find it useful.
+Nexus is a little tool I started working on. 
+It's not fully complete however I hope you'll find it useful,
+there will be a lot of updates in the future so make sure you keep coming back here to download the latest one for the most amount of features.
+I hope that you have fun messing around with it.
